@@ -1,0 +1,13 @@
+Log into phpMyAdmin
+username: FirstRowMovies
+password: csc322
+
+Go to php myadmin and select the database `firstrowmovies`
+Click on the import tab
+Select `Choose File` and import the sql files in this order
+
+STEP 1: Table structures and procedures
+Import "firstrowmovies.sql"
+
+STEP 2: Populate the database
+Import "newpopulate.sql"

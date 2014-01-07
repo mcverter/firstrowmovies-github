@@ -1,0 +1,57 @@
+COMMENT_ID,MOVIE_ID,COMMENT,FLAGGED,USER_ID,TIMESTAMP
+1,7,This movie is ok,,1,12:00 AM
+2,23,INTERESTING MOVIE,,1,10:00 PM
+3,45,THIS MOVIE FUCKING SUCKS,TRUE,1,9:00 AM
+4,12,DUMB SHIT WASTE OF TIME,TRUE,2,2:00 AM
+5,23,ASSHOLE ACTOR AND DIRECTOR,TRUE,2,12:00 AM
+6,65,REALLY NICE,,2,10:00 PM
+7,40,AWESOMEE,,2,9:00 AM
+8,10,RECOMMEND IT,,2,2:00 AM
+9,75,SO SO,,2,12:00 AM
+10,47,ACTORESS LOOKS LIKE SHIT,TRUE,2,10:00 PM
+11,97,LOVED IT ,,2,9:00 AM
+12,36,SAW IT FOR THE FITY TIME,,2,2:00 AM
+13,25,DOGS BARK HUMANS DON’T,,2,12:00 AM
+14,23,I WAS EXPECTING PORN IN THIS MOVIE,TRUE,2,10:00 PM
+15,95,WHAT A MOVIE,,2,9:00 AM
+16,87,I enjoyed the movie,,3,2:00 AM
+17,46,it was ok,,3,12:00 AM
+18,27,suck ass .,TRUE,3,10:00 PM
+19,84,rocked,,3,9:00 AM
+20,85,humurous,,3,2:00 AM
+21,35,more strippers than strip club,TRUE,3,12:00 AM
+22,8,best ever,,3,10:00 PM
+23,34,good,,6,2:00 AM
+24,12,excellent,,6,12:00 AM
+25,8,could be better if I directed it,,6,10:00 PM
+26,65,good,,6,9:00 AM
+27,34,the actress is so hot,,6,2:00 AM
+28,86,only recommended if u are totally free,,6,12:00 AM
+29,12,WHAT A MOVIE,,6,10:00 PM
+30,23,wah wah wah ,,6,9:00 AM
+31,65,yo best movie ever ,,6,2:00 AM
+32,89,not recommended,,6,12:00 AM
+33,98,useless,,6,10:00 PM
+34,87,stupid movie yo. Waste of my time yo,TRUE,6,3:23 AM
+35,54,SO SO,,6,2:00 AM
+36,64,WHAT A MOVIE,,8,12:00 AM
+37,74,wow,,8,10:00 PM
+38,84,superb action,,8,9:00 AM
+39,94,best ever,,8,2:00 AM
+40,10,good,,8,12:00 AM
+41,20,excellent,,8,10:00 PM
+42,30,could be better if I directed it,,8,9:00 AM
+43,40,good,,9,2:00 AM
+44,50,the actress is so hot,,9,12:00 AM
+45,60,only recommended if u are totally free,,9,10:00 PM
+46,70,WHAT A MOVIE,,9,9:00 AM
+47,80,wah wah wah ,,9,2:00 AM
+48,90,anybody recommending this fucking suck,TRUE,10,12:00 AM
+49,100,not recommended,,10,10:00 PM
+50,1,useless,,10,9:00 AM
+51,11,amazing n,,10,2:00 AM
+52,21,natural beauty,,10,12:00 AM
+53,31,speechless,,10,10:00 PM
+54,41,beautiful,,10,2:00 AM
+55,51,whoever watches this movie is a an asshole,TRUE,10,12:00 AM
+56,71,pointless,,10,3:50 PM
